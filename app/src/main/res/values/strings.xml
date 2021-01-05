@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShaadiAssignment</string>
+    <string name="please_wait">please wait...</string>
+    <string-array name="SideMenu">
+        <item>My Account</item>
+        <item>Offers</item>
+        <item>My Order</item>
+        <item>Logout</item>
+    </string-array>
+    <string name="work_in_progress">Work in Progress</string>
+    <string name="no_internet">Please check your connectivity...</string>
+    <string name="something_wrong">Something went wrong!!!</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="user_select">Member accepted your request</string>
+    <string name="user_decline">Member declined your request</string>
+</resources>
